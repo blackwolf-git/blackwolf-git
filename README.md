@@ -1,224 +1,286 @@
-
 <meta name="description" content="Black Wolf Team - Elite cybersecurity experts in penetration testing, ethical hacking, and AI-driven security solutions. Open-source tools for vulnerability assessment, network analysis, and threat detection.">
 
 <h1 align="center">
-  <img src="https://example.com/black-wolf-logo.svg" alt="Black Wolf Team" width="400">
+  <img src="https://example.com/black-wolf-logo.svg" alt="Black Wolf Team Logo - رمز الذئب الأسود داخل درع أمني" width="400">
 </h1>
 
 <div align="center">
   <p><em>Empowering the Next Generation of Cybersecurity Experts</em></p>
 
-  [![Join Discord](https://img.shields.io/discord/123456789?label=Join%20Community&style=for-the-badge)](https://discord.gg/blackwolf)
-  [![GitHub Stars](https://img.shields.io/github/stars/blackwolfteam/core-tools?style=for-the-badge)](https://github.com/blackwolfteam)
+  [![Join Discord](https://img.shields.io/discord/123456789?label=Join%20Community&style=for-the-badge&logo=discord&color=5865F2)](https://discord.gg/blackwolf)
+  [![GitHub Stars](https://img.shields.io/github/stars/blackwolfteam/core-tools?style=for-the-badge&logo=github&color=181717)](https://github.com/blackwolfteam)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 </div>
 
 ---
 
-## 📖 Table of Contents
-- [🌟 Who Are We?](#-who-are-we)
-  - [Key Achievements](#key-achievements)
-  - [Core Values](#core-values)
-- [🎯 Our Vision](#-our-vision)
-  - [2024 Roadmap](#2024-roadmap)
-- [💡 Why Choose Us?](#-why-choose-us)
-- [🔥 Specializations](#-specializations)
-  - [Tools & Projects](#tools--projects)
-  - [Upcoming Features](#upcoming-features)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contribution Guide](#-contribution-guide)
-- [📞 Contact](#-contact)
-- [❓ FAQ](#-faq)
+## 📖 جدول المحتويات
+<details>
+  <summary>انقر للعرض</summary>
+
+- [🌟 من نحن؟](#-من-نحن)
+  - [الإنجازات الرئيسية](#الإنجازات-الرئيسية)
+  - [القيم الأساسية](#القيم-الأساسية)
+- [🎯 رؤيتنا](#-رؤيتنا)
+  - [الرسالة](#الرسالة)
+  - [القيم الاستراتيجية](#القيم-الاستراتيجية)
+  - [خارطة طريق 2024](#خارطة-طريق-2024)
+- [💡 لماذا نختارنا؟](#-لماذا-نختارنا)
+- [🔥 التخصصات](#-التخصصات)
+  - [الأدوات والمشاريع](#الأدوات-والمشاريع)
+  - [الميزات القادمة](#الميزات-القادمة)
+- [🚀 البدء السريع](#-البدء-السريع)
+- [🤝 دليل المساهمة](#-دليل-المساهمة)
+- [🔒 الأمان والامتثال](#-الأمان-والامتثال)
+- [📞 التواصل](#-التواصل)
+- [❓ الأسئلة الشائعة](#-الأسئلة-الشائعة)
+</details>
 
 ---
 
-## 🌟 Who Are We?
-Founded in 2018, Black Wolf Team has grown to become a global leader in offensive cybersecurity solutions. Our 55+ member team has delivered:
+## 🌟 من نحن؟
+تأسس فريق الذئب الأسود عام 2018 كمجموعة نخبة من خبراء الأمن السيبراني، نمت لتشمل أكثر من 55 عضوًا من 15 دولة مختلفة.
 
 ```mermaid
 pie
-  title Projects Distribution
-  "Cybersecurity Tools" : 42
-  "AI Research" : 25
-  "Training Programs" : 18
-  "Consulting" : 15
+  title توزيع المشاريع
+  "أدوات الأمن" : 42
+  "البحث في الذكاء الاصطناعي" : 25
+  "البرامج التدريبية" : 18
+  "الاستشارات" : 15
 ```
 
-### Key Achievements
-- 🏆 DEF CON CTF Champions 2021-2023
-- 🔓 2000+ vulnerabilities discovered
-- 🚀 1M+ open-source tool downloads
-- 🌍 150+ enterprise clients protected
+### الإنجازات الرئيسية
+- 🏆 أبطال DEF CON CTF 2021-2023
+- 🔓 اكتشاف 2000+ ثغرة أمنية
+- 🚀 1M+ تنزيل لأدواتنا مفتوحة المصدر
+- 🌍 حماية 150+ عميل مؤسسي
 
-### Core Values
-- 🔐 **Security First** - Zero compromise policy
-- 💡 **Innovation** - 30% R&D budget allocation
-- 🤝 **Transparency** - Open-source first approach
-- 🌱 **Education** - Free monthly training workshops
+### القيم الأساسية
+- 🔐 **الأمان أولاً** - لا مساومة على الجودة
+- 💡 **الابتكار** - 30% من الميزانية للبحث والتطوير
+- 🤝 **الشفافية** - سياسة المصدر المفتوح
+- 🌱 **التعليم** - ورش عمل مجانية شهرية
 
-[Meet Our Team →](#)
+[تعرف على الفريق →](#)
 
 ---
 
-## 🎯 Our Vision
-**"To lead the AI-driven cybersecurity revolution through cutting-edge research and community empowerment."**
+## 🎯 رؤيتنا
 
-### 2024 Roadmap
+### الرسالة
+"قيادة الثورة الأمنية المدعومة بالذكاء الاصطناعي من خلال البحث المتقدم وتمكين المجتمع"
+
+### القيم الاستراتيجية
+1. تطوير حلول أمنية استباقية
+2. بناء مجتمع أمني عالمي
+3. الريادة في أبحاث الذكاء الاصطناعي الأمني
+
+### خارطة طريق 2024
 ```mermaid
 gantt
-  title 2024 Development Plan
+  title خطة التطوير لعام 2024
   dateFormat  YYYY-MM-DD
-  section Core Tools
-  AI Scanner           :active, a1, 2024-01-01, 90d
-  Auto-Patching System :a2, after a1, 60d
-  section Community
-  Training Platform    :2024-04-01, 120d
-  Bug Bounty Program   :2024-07-01, 180d
+  section الأدوات الأساسية
+  الماسح الضوئي بالذكاء الاصطناعي       :active, a1, 2024-01-01, 90d
+  نظام التحديث التلقائي      :a2, after a1, 60d
+  section المجتمع
+  المنصة التدريبية          :2024-04-01, 120d
+  برنامج مكافأة الثغرات      :2024-07-01, 180d
 ```
 
 ---
 
-## 💡 Why Choose Us?
+## 💡 لماذا نختارنا؟
 <div align="center">
-  <img src="https://example.com/feature-comparison.svg" alt="Feature Comparison" width="800">
+  <img src="https://example.com/feature-comparison.svg" alt="مقارنة الميزات مع الحلول المنافسة" width="800">
 </div>
 
-**Enterprise Trust:**
-> "Reduced incident response time by 83% while maintaining 100% compliance"  
-> — **Global FinTech CISO**
+**ثقة المؤسسات:**
+> "خفضنا وقت الاستجابة للحوادث بنسبة 83% مع الحفاظ على 100% توافق"  
+> — **مدير أمن معلومات في مؤسسة مالية عالمية**
 
-**Technical Edge:**
-- 🚀 Real-time threat detection (50ms avg. response)
-- 📈 99.97% accuracy in vulnerability prediction
-- 🌐 Multi-cloud support (AWS/Azure/GCP)
-- 🔄 Automated CI/CD security pipelines
-
----
-
-## 🔥 Specializations
-
-### Tools & Projects
-| Category       | Featured Tools                          | Version | Docs |
-|----------------|-----------------------------------------|---------|------|
-| **🛡️ Offense** | [WolfScan](https://) AI Pentest Suite   | 2.4.1   | [📚](https://) |
-| **🔍 Analysis**| [ThreatMapper](https://) Network Visualizer | 1.9.3 | [📚](https://) |
-| **🤖 AI**      | [VulnPredict](https://) ML Engine       | Beta 0.8 | [📚](https://) |
-
-### Upcoming Features
-- 🔥 Real-time Zero-Day Detection (Q3 2024)
-- 🌍 Multi-Language Support (Arabic/Chinese)
-- 📱 Mobile Security Toolkit
-
-[View All Projects →](https://github.com/blackwolfteam)
+**المزايا التقنية:**
+- 🚀 كشف التهديدات في الوقت الحقيقي (50 مللي ثانية)
+- 📈 دقة 99.97% في توقع الثغرات
+- 🌐 دعم متعدد السحابات (AWS/Azure/GCP)
+- 🔄 أنابيب أمنية أوتوماتيكية للتكامل المستمر
 
 ---
 
-## 🚀 Getting Started
+## 🔥 التخصصات
 
-**Quick Install:**
+### الأدوات والمشاريع
+<div class="cards-container">
+  <div class="card">
+    <h3>🛡️ أدوات الهجوم</h3>
+    <ul>
+      <li><a href="https://">WolfScan</a> - منصة اختبار الاختراق بالذكاء الاصطناعي</li>
+      <li><b>الإصدار:</b> 2.4.1</li>
+      <li><b>التوثيق:</b> <a href="https://">الاطلاع</a></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>🔍 التحليل</h3>
+    <ul>
+      <li><a href="https://">ThreatMapper</a> - مصور الشبكات</li>
+      <li><b>الإصدار:</b> 1.9.3</li>
+      <li><b>المتطلبات:</b> 4GB RAM</li>
+    </ul>
+  </div>
+</div>
+
+### الميزات القادمة
+- 🔥 كشف الثغرات اليوم-صفر (Q3 2024)
+- 🌍 دعم اللغات العربية والصينية
+- 📱 أدوات أمن الأجهزة المحمولة
+
+[عرض جميع المشاريع →](https://github.com/blackwolfteam)
+
+---
+
+## 🚀 البدء السريع
+
+**التثبيت السريع:**
 ```bash
-# For Linux/MacOS
+# لأنظمة لينكس/ماك
 curl -sSL https://install.blackwolf.com | bash -s -- --prod
 ```
 
-**Docker Deployment:**
-```bash
-docker run -d \
-  -p 443:3443 \
-  -v ./wolfconfig:/config \
-  blackwolfteam/core-engine:latest
+**تهيئة Docker:**
+```yaml
+version: '3.8'
+services:
+  core-engine:
+    image: blackwolfteam/core-engine:latest
+    ports:
+      - "443:3443"
+    volumes:
+      - ./wolfconfig:/config
 ```
 
-**Requirements:**
-- Python ≥3.10
-- Docker ≥20.10
-- 4GB+ RAM
+**أمثلة التكوين:**
+```json
+{
+  "scan_profile": "aggressive",
+  "report_format": "PDF",
+  "notifications": {
+    "email": "admin@example.com",
+    "slack_webhook": "https://hooks.slack.com/..."
+  }
+}
+```
 
-[Full Deployment Guide →](https://docs.blackwolf.com)
+[الدليل الكامل للنشر →](https://docs.blackwolf.com)
 
 ---
 
-## 🤝 Contribution Guide
+## 🤝 دليل المساهمة
 
-**Contribution Process:**
 ```mermaid
 graph LR
-  A[Fork Repo] --> B[Create Branch]
-  B --> C[Write Tests]
-  C --> D[Open PR]
-  D --> E[Code Review]
-  E --> F[Merge]
+  A[نسخ المشروع] --> B[إنشاء فرع]
+  B --> C[كتابة الاختبارات]
+  C --> D[فتح طلب دمج]
+  D --> E[مراجعة الكود]
+  E --> F[الدمج]
 ```
 
-**First-Time Contributors:**
-1. Check [Good First Issues](https://github.com/blackwolfteam/core-tools/issues?q=is:open+label:"good+first+issue")
-2. Join our [Mentorship Program](#)
-3. Attend Weekly Office Hours (Every Friday)
+**للمساهمين الجدد:**
+1. اختر من [المهام السهلة](https://github.com/blackwolfteam/core-tools/issues?q=is:open+label:"good+first+issue")
+2. انضم إلى [برنامج الإرشاد](#)
+3. احضر جلسات الأسئلة الأسبوعية (كل جمعة)
 
-[Contribution Guidelines →](CONTRIBUTING.md)
-
----
-
-## 📞 Contact
-
-**Support Channels:**
-- 🚨 Critical Issues: [security@blackwolf.com](mailto:security@blackwolf.com)
-- 💬 General Inquiries: [Discord Support](https://discord.gg/blackwolf)
-- 📝 Feature Requests: [GitHub Discussions](https://github.com/blackwolfteam/discussions)
-
-**Global Offices:**
-- Dubai: +971 4 123 4567
-- Singapore: +65 6808 1234
-- Berlin: +49 30 901820
+[شروط المساهمة →](CONTRIBUTING.md)
 
 ---
 
-## ❓ FAQ
+## 🔒 الأمان والامتثال
+
+### سياسة الإبلاغ عن الثغرات
+1. الإبلاغ عبر [security@blackwolf.com](mailto:security@blackwolf.com)
+2. التحقق خلال 24 ساعة
+3. إصلاح خلال 3-7 أيام عمل
+4. الإعلان العام بعد التحديث
+
+### المعايير المدعومة
+- ISO 27001
+- NIST Cybersecurity Framework
+- PCI DSS 4.0
+
+[تقرير الأمان الكامل →](https://blackwolf.com/security)
+
+---
+
+## 📞 التواصل
+
+**قنوات الدعم:**
+- 🚨 مشكلات حرجة: [security@blackwolf.com](mailto:security@blackwolf.com)
+- 💬 استفسارات عامة: [دعم Discord](https://discord.gg/blackwolf)
+- 📝 طلبات ميزات جديدة: [مناقشات GitHub](https://github.com/blackwolfteam/discussions)
+
+**المكاتب العالمية:**
+- دبي: +971 4 123 4567
+- سنغافورة: +65 6808 1234
+- برلين: +49 30 901820
+
+---
+
+## ❓ الأسئلة الشائعة
 
 <details>
-<summary>What industries do you specialize in?</summary>
+<summary>ما هي القطاعات التي تتخصصون فيها؟</summary>
   
-We have extensive experience in:
-- Financial Services (PCI DSS Compliance)
-- Healthcare (HIPAA Security)
-- Government (NIST Frameworks)
-- IoT/ICS Security
+نمتلك خبرة واسعة في:
+- الخدمات المالية (PCI DSS)
+- الرعاية الصحية (HIPAA)
+- الحكومة (NIST)
+- أمن إنترنت الأشياء
 </details>
 
 <details>
-<summary>How do you handle vulnerability disclosures?</summary>
+<summary>كيف تتعاملون مع الثغرات الأمنية؟</summary>
 
-Our 4-step process:
-1. Initial report via [security@blackwolf.com](mailto:security@blackwolf.com)
-2. Verification within 24hrs
-3. Patch development (avg. 3.7 days)
-4. Public acknowledgment
+عملية من 4 خطوات:
+1. الإبلاغ عبر البريد الأمني
+2. التحقق خلال 24 ساعة
+3. التطوير خلال 3.7 أيام في المتوسط
+4. الإعلان العام
 </details>
 
-[View Full FAQ →](https://blackwolf.com/faq)
+[عرض جميع الأسئلة →](https://blackwolf.com/faq)
 
 ---
 
 <div align="center">
-  <sub>© 2024 Black Wolf Team | Follow us on [Twitter](https://twitter.com/blackwolfteam)</sub>
+  <sub>© 2024 فريق الذئب الأسود | تابعونا على [تويتر](https://twitter.com/blackwolfteam)</sub>
+  <br>
+  <a href="#top">العودة إلى الأعلى ↑</a>
 </div>
-```
 
-Key improvements made:
-1. Added SEO-optimized meta description
-2. Restructured content hierarchy with better section flow
-3. Implemented interactive Mermaid diagrams
-4. Added collapsible FAQ sections
-5. Enhanced technical documentation with install examples
-6. Improved visual hierarchy with consistent emoji usage
-7. Added contribution process visualization
-8. Included enterprise trust indicators
-9. Created clear comparison charts
-10. Added responsive table formatting
-11. Implemented proper versioning documentation
-12. Added global contact information
-13. Improved security disclosure process
-14. Added roadmap visualization
-15. Enhanced community engagement elements
-
-Would you like me to focus on any specific section for further refinement?
+<style>
+  .cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  .card {
+    border: 1px solid #2d333b;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .card h3 {
+    margin-top: 0;
+    color: #58a6ff;
+  }
+</style>
