@@ -1,286 +1,255 @@
 <meta name="description" content="Black Wolf Team - Elite cybersecurity experts in penetration testing, ethical hacking, and AI-driven security solutions. Open-source tools for vulnerability assessment, network analysis, and threat detection.">
 
-<h1 align="center">
-  <img src="https://example.com/black-wolf-logo.svg" alt="Black Wolf Team Logo - رمز الذئب الأسود داخل درع أمني" width="400">
-</h1>
-
 <div align="center">
-  <p><em>Empowering the Next Generation of Cybersecurity Experts</em></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://example.com/black-wolf-logo-dark.svg">
+    <img src="https://example.com/black-wolf-logo-light.svg" alt="Black Wolf Team Logo" width="400" style="filter: drop-shadow(0 0 20px #58a6ff80);">
+  </picture>
+  
+  <h1 style="background: linear-gradient(45deg, #58a6ff, #bd34fe); -webkit-background-clip: text; color: transparent;">
+    الذئب الأسود | Black Wolf Team
+  </h1>
 
-  [![Join Discord](https://img.shields.io/discord/123456789?label=Join%20Community&style=for-the-badge&logo=discord&color=5865F2)](https://discord.gg/blackwolf)
-  [![GitHub Stars](https://img.shields.io/github/stars/blackwolfteam/core-tools?style=for-the-badge&logo=github&color=181717)](https://github.com/blackwolfteam)
-  [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+  <div class="badges">
+    <a href="https://discord.gg/blackwolf" target="_blank">
+      <img alt="Discord" src="https://img.shields.io/badge/-Join%20Community-5865F2?style=flat&logo=discord&logoColor=white">
+    </a>
+    <a href="https://github.com/blackwolfteam" target="_blank">
+      <img alt="GitHub Stars" src="https://img.shields.io/github/stars/blackwolfteam/core-tools?style=flat&logo=github&color=181717">
+    </a>
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-blue?style=flat">
+  </div>
 </div>
 
 ---
 
-## 📖 جدول المحتويات
-<details>
-  <summary>انقر للعرض</summary>
-
-- [🌟 من نحن؟](#-من-نحن)
-  - [الإنجازات الرئيسية](#الإنجازات-الرئيسية)
-  - [القيم الأساسية](#القيم-الأساسية)
-- [🎯 رؤيتنا](#-رؤيتنا)
-  - [الرسالة](#الرسالة)
-  - [القيم الاستراتيجية](#القيم-الاستراتيجية)
-  - [خارطة طريق 2024](#خارطة-طريق-2024)
-- [💡 لماذا نختارنا؟](#-لماذا-نختارنا)
-- [🔥 التخصصات](#-التخصصات)
-  - [الأدوات والمشاريع](#الأدوات-والمشاريع)
-  - [الميزات القادمة](#الميزات-القادمة)
-- [🚀 البدء السريع](#-البدء-السريع)
-- [🤝 دليل المساهمة](#-دليل-المساهمة)
-- [🔒 الأمان والامتثال](#-الأمان-والامتثال)
-- [📞 التواصل](#-التواصل)
-- [❓ الأسئلة الشائعة](#-الأسئلة-الشائعة)
-</details>
+## 🌟 جدول المحتويات التفاعلي
+<div class="toc-grid">
+  <a href="#من-نحن" class="toc-card">
+    <h3>🦾 من نحن؟</h3>
+    <p>تعرف على فريقنا وإنجازاتنا</p>
+  </a>
+  <a href="#رؤيتنا" class="toc-card">
+    <h3>🚀 الرؤية</h3>
+    <p>خطة 2024 والاستراتيجيات</p>
+  </a>
+  <a href="#التخصصات" class="toc-card">
+    <h3>🔧 التخصصات</h3>
+    <p>الأدوات والمشاريع الجارية</p>
+  </a>
+  <a href="#التواصل" class="toc-card">
+    <h3>📞 التواصل</h3>
+    <p>قنوات الدعم والاتصال</p>
+  </a>
+</div>
 
 ---
 
-## 🌟 من نحن؟
-تأسس فريق الذئب الأسود عام 2018 كمجموعة نخبة من خبراء الأمن السيبراني، نمت لتشمل أكثر من 55 عضوًا من 15 دولة مختلفة.
+## 🦾 <span id="من-نحن">من نحن؟</span>
+<div class="stats">
+  <div class="stat">
+    <div class="stat-number">55+</div>
+    <div class="stat-label">خبير أمني</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">2000+</div>
+    <div class="stat-label">ثغرة مكتشفة</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">99.97%</div>
+    <div class="stat-label">دقة الكشف</div>
+  </div>
+</div>
 
 ```mermaid
 pie
-  title توزيع المشاريع
-  "أدوات الأمن" : 42
-  "البحث في الذكاء الاصطناعي" : 25
-  "البرامج التدريبية" : 18
-  "الاستشارات" : 15
-```
-
-### الإنجازات الرئيسية
-- 🏆 أبطال DEF CON CTF 2021-2023
-- 🔓 اكتشاف 2000+ ثغرة أمنية
-- 🚀 1M+ تنزيل لأدواتنا مفتوحة المصدر
-- 🌍 حماية 150+ عميل مؤسسي
-
-### القيم الأساسية
-- 🔐 **الأمان أولاً** - لا مساومة على الجودة
-- 💡 **الابتكار** - 30% من الميزانية للبحث والتطوير
-- 🤝 **الشفافية** - سياسة المصدر المفتوح
-- 🌱 **التعليم** - ورش عمل مجانية شهرية
-
-[تعرف على الفريق →](#)
-
----
-
-## 🎯 رؤيتنا
-
-### الرسالة
-"قيادة الثورة الأمنية المدعومة بالذكاء الاصطناعي من خلال البحث المتقدم وتمكين المجتمع"
-
-### القيم الاستراتيجية
-1. تطوير حلول أمنية استباقية
-2. بناء مجتمع أمني عالمي
-3. الريادة في أبحاث الذكاء الاصطناعي الأمني
-
-### خارطة طريق 2024
-```mermaid
-gantt
-  title خطة التطوير لعام 2024
-  dateFormat  YYYY-MM-DD
-  section الأدوات الأساسية
-  الماسح الضوئي بالذكاء الاصطناعي       :active, a1, 2024-01-01, 90d
-  نظام التحديث التلقائي      :a2, after a1, 60d
-  section المجتمع
-  المنصة التدريبية          :2024-04-01, 120d
-  برنامج مكافأة الثغرات      :2024-07-01, 180d
+  title توزيع الخبرات
+  "اختبار الاختراق" : 35
+  "تحليل البرمجيات" : 25
+  "أمن الشبكات" : 20
+  "الذكاء الاصطناعي" : 20
 ```
 
 ---
 
-## 💡 لماذا نختارنا؟
-<div align="center">
-  <img src="https://example.com/feature-comparison.svg" alt="مقارنة الميزات مع الحلول المنافسة" width="800">
-</div>
-
-**ثقة المؤسسات:**
-> "خفضنا وقت الاستجابة للحوادث بنسبة 83% مع الحفاظ على 100% توافق"  
-> — **مدير أمن معلومات في مؤسسة مالية عالمية**
-
-**المزايا التقنية:**
-- 🚀 كشف التهديدات في الوقت الحقيقي (50 مللي ثانية)
-- 📈 دقة 99.97% في توقع الثغرات
-- 🌐 دعم متعدد السحابات (AWS/Azure/GCP)
-- 🔄 أنابيب أمنية أوتوماتيكية للتكامل المستمر
-
----
-
-## 🔥 التخصصات
-
-### الأدوات والمشاريع
-<div class="cards-container">
-  <div class="card">
-    <h3>🛡️ أدوات الهجوم</h3>
-    <ul>
-      <li><a href="https://">WolfScan</a> - منصة اختبار الاختراق بالذكاء الاصطناعي</li>
-      <li><b>الإصدار:</b> 2.4.1</li>
-      <li><b>التوثيق:</b> <a href="https://">الاطلاع</a></li>
-    </ul>
-  </div>
-
-  <div class="card">
-    <h3>🔍 التحليل</h3>
-    <ul>
-      <li><a href="https://">ThreatMapper</a> - مصور الشبكات</li>
-      <li><b>الإصدار:</b> 1.9.3</li>
-      <li><b>المتطلبات:</b> 4GB RAM</li>
-    </ul>
+## 🚀 <span id="رؤيتنا">الرؤية والاستراتيجية</span>
+<div class="roadmap">
+  <div class="timeline">
+    <div class="timeline-item">
+      <h4>Q1 2024</h4>
+      <ul>
+        <li>إطلاق WolfScan v3</li>
+        <li>دعم اللغات العربية</li>
+      </ul>
+    </div>
+    <div class="timeline-item">
+      <h4>Q2 2024</h4>
+      <ul>
+        <li>منصة التدريب التفاعلية</li>
+        <li>تكامل مع AWS Security Hub</li>
+      </ul>
+    </div>
   </div>
 </div>
 
-### الميزات القادمة
-- 🔥 كشف الثغرات اليوم-صفر (Q3 2024)
-- 🌍 دعم اللغات العربية والصينية
-- 📱 أدوات أمن الأجهزة المحمولة
-
-[عرض جميع المشاريع →](https://github.com/blackwolfteam)
-
 ---
 
-## 🚀 البدء السريع
-
-**التثبيت السريع:**
-```bash
-# لأنظمة لينكس/ماك
-curl -sSL https://install.blackwolf.com | bash -s -- --prod
-```
-
-**تهيئة Docker:**
-```yaml
-version: '3.8'
-services:
-  core-engine:
-    image: blackwolfteam/core-engine:latest
-    ports:
-      - "443:3443"
-    volumes:
-      - ./wolfconfig:/config
-```
-
-**أمثلة التكوين:**
-```json
-{
-  "scan_profile": "aggressive",
-  "report_format": "PDF",
-  "notifications": {
-    "email": "admin@example.com",
-    "slack_webhook": "https://hooks.slack.com/..."
-  }
-}
-```
-
-[الدليل الكامل للنشر →](https://docs.blackwolf.com)
-
----
-
-## 🤝 دليل المساهمة
-
-```mermaid
-graph LR
-  A[نسخ المشروع] --> B[إنشاء فرع]
-  B --> C[كتابة الاختبارات]
-  C --> D[فتح طلب دمج]
-  D --> E[مراجعة الكود]
-  E --> F[الدمج]
-```
-
-**للمساهمين الجدد:**
-1. اختر من [المهام السهلة](https://github.com/blackwolfteam/core-tools/issues?q=is:open+label:"good+first+issue")
-2. انضم إلى [برنامج الإرشاد](#)
-3. احضر جلسات الأسئلة الأسبوعية (كل جمعة)
-
-[شروط المساهمة →](CONTRIBUTING.md)
-
----
-
-## 🔒 الأمان والامتثال
-
-### سياسة الإبلاغ عن الثغرات
-1. الإبلاغ عبر [security@blackwolf.com](mailto:security@blackwolf.com)
-2. التحقق خلال 24 ساعة
-3. إصلاح خلال 3-7 أيام عمل
-4. الإعلان العام بعد التحديث
-
-### المعايير المدعومة
-- ISO 27001
-- NIST Cybersecurity Framework
-- PCI DSS 4.0
-
-[تقرير الأمان الكامل →](https://blackwolf.com/security)
-
----
-
-## 📞 التواصل
-
-**قنوات الدعم:**
-- 🚨 مشكلات حرجة: [security@blackwolf.com](mailto:security@blackwolf.com)
-- 💬 استفسارات عامة: [دعم Discord](https://discord.gg/blackwolf)
-- 📝 طلبات ميزات جديدة: [مناقشات GitHub](https://github.com/blackwolfteam/discussions)
-
-**المكاتب العالمية:**
-- دبي: +971 4 123 4567
-- سنغافورة: +65 6808 1234
-- برلين: +49 30 901820
-
----
-
-## ❓ الأسئلة الشائعة
-
-<details>
-<summary>ما هي القطاعات التي تتخصصون فيها؟</summary>
+## 🔧 <span id="التخصصات">الأدوات الرئيسية</span>
+<div class="tools-grid">
+  <div class="tool-card">
+    <h3>🛡️ WolfScan</h3>
+    <p>منصة اختبار الاختراق بالذكاء الاصطناعي</p>
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+    </div>
+    <a href="#" class="download-btn">التوثيق الكامل →</a>
+  </div>
   
-نمتلك خبرة واسعة في:
-- الخدمات المالية (PCI DSS)
-- الرعاية الصحية (HIPAA)
-- الحكومة (NIST)
-- أمن إنترنت الأشياء
-</details>
-
-<details>
-<summary>كيف تتعاملون مع الثغرات الأمنية؟</summary>
-
-عملية من 4 خطوات:
-1. الإبلاغ عبر البريد الأمني
-2. التحقق خلال 24 ساعة
-3. التطوير خلال 3.7 أيام في المتوسط
-4. الإعلان العام
-</details>
-
-[عرض جميع الأسئلة →](https://blackwolf.com/faq)
+  <div class="tool-card">
+    <h3>🔍 ThreatMapper</h3>
+    <p>تحليل الشبكات والتهديدات</p>
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+    </div>
+    <a href="#" class="download-btn">دليل الاستخدام →</a>
+  </div>
+</div>
 
 ---
 
-<div align="center">
-  <sub>© 2024 فريق الذئب الأسود | تابعونا على [تويتر](https://twitter.com/blackwolfteam)</sub>
+## 📞 <span id="التواصل">قنوات التواصل</span>
+<div class="contact-cards">
+  <a href="mailto:security@blackwolf.com" class="contact-card">
+    <h3>📧 البريد الأمني</h3>
+    <p>للإبلاغ عن الثغرات</p>
+  </a>
+  <a href="https://discord.gg/blackwolf" class="contact-card">
+    <h3>💬 مجتمع الديسكورد</h3>
+    <p>للأسئلة العامة</p>
+  </a>
+  <a href="https://github.com/blackwolfteam/discussions" class="contact-card">
+    <h3>💡 مناقشات GitHub</h3>
+    <p>للمقترحات التقنية</p>
+  </a>
+</div>
+
+---
+
+<div align="center" style="margin-top: 50px;">
+  <sub>© 2024 فريق الذئب الأسود | [الخصوصية](/#) | [الشروط](/#)</sub>
   <br>
-  <a href="#top">العودة إلى الأعلى ↑</a>
+  <div class="social-links">
+    <a href="https://twitter.com/blackwolfteam">
+      <img src="https://icongr.am/fontawesome/twitter.svg?size=20&color=58a6ff" alt="Twitter">
+    </a>
+    <a href="https://linkedin.com/company/blackwolf">
+      <img src="https://icongr.am/fontawesome/linkedin.svg?size=20&color=58a6ff" alt="LinkedIn">
+    </a>
+  </div>
 </div>
 
 <style>
-  .cards-container {
+  :root {
+    --primary-color: #58a6ff;
+    --secondary-color: #bd34fe;
+    --background: #0d1117;
+  }
+
+  .toc-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1rem;
     margin: 2rem 0;
   }
-  
-  .card {
-    border: 1px solid #2d333b;
+
+  .toc-card {
+    border: 1px solid #30363d;
     border-radius: 8px;
     padding: 1.5rem;
-    transition: transform 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-decoration: none !important;
   }
-  
-  .card:hover {
+
+  .toc-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 8px 16px rgba(88, 166, 255, 0.1);
+    border-color: var(--primary-color);
   }
-  
-  .card h3 {
+
+  .stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin: 2rem 0;
+  }
+
+  .stat {
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .stat-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+  }
+
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .tool-card {
+    background: #161b22;
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid #30363d;
+  }
+
+  .tool-card h3 {
     margin-top: 0;
-    color: #58a6ff;
+    color: var(--primary-color);
+  }
+
+  .download-btn {
+    display: inline-block;
+    background: var(--primary-color);
+    color: white !important;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-top: 1rem;
+  }
+
+  .contact-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+
+  .contact-card {
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none !important;
+    transition: all 0.2s;
+  }
+
+  .contact-card:hover {
+    background: rgba(88, 166, 255, 0.1);
+    border-color: var(--primary-color);
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root {
+      --background: #ffffff;
+    }
+    .tool-card {
+      background: #f6f8fa;
+    }
   }
 </style>
